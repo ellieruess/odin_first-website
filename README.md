@@ -1,2 +1,2 @@
-# Ellie-Ruess-TheOdinProject
-This file contains projects completed as part of The Odin Project.
+# The Odin Project - First Website
+This file contains the first website I created using an introductory guide from The Odin Project.
